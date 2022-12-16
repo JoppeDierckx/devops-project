@@ -1,0 +1,29 @@
+﻿@using Contentful.Core.Models
+
+@model ContentfulCollection<trainingen>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <script type="text/javascript" src="wwwroot\js\site.js"></script>
+</head>
+   
+<body>
+        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Index">
+        @foreach (var trainingen in Model){
+            <h1>@trainingen.activiteit</h1>
+            <h2>@trainingen.datum</h2>
+            <input type="radio" id="aanwezig1" name=@trainingen.radioId value="Aanwezig">
+            <label for="aanwezig">Aanwezig</label>
+            <input type="radio" id="afwezig1" name=@trainingen.radioId value="Afwezig">
+            <label for="afwezig">Afwezig</label>
+        }
+        <br/>
+            <input type="submit" value="Submit" />
+        </form>
+        <div class="text-center">
+            <h1 class="display-4">Welcome</h1>
+            <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+</body>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CA855m5kqNpMplRJ2KDIxdCsBymwIcO6cmWXD790G5MS5E/7vrYIsGU2nDQ1Kl4z74JN22GyUOLaDyHqVj9CLA==",
+  "dgSpecHash": "C0n12oFFA0KkBnjWTNE6Lwpl80+ToVckfg36x5n6SDPQn9W6+eKUrawgzGwntUz+d43H8WyJoTIE7J1LIUyOBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joppe\\Documents\\school\\Jaar_2\\devops_project\\DevopsProject\\project\\project.csproj",
+  "projectFilePath": "C:\\Users\\Joppe\\Documents\\GitHub\\devops-project\\project\\project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joppe\\.nuget\\packages\\contentful.aspnetcore\\7.2.2\\contentful.aspnetcore.7.2.2.nupkg.sha512",
     "C:\\Users\\Joppe\\.nuget\\packages\\contentful.csharp\\7.2.2\\contentful.csharp.7.2.2.nupkg.sha512",

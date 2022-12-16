@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joppe\\Documents\\school\\Jaar_2\\devops_project\\DevopsProject\\project\\project.csproj": {}
+    "C:\\Users\\Joppe\\Documents\\GitHub\\devops-project\\project\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joppe\\Documents\\school\\Jaar_2\\devops_project\\DevopsProject\\project\\project.csproj": {
+    "C:\\Users\\Joppe\\Documents\\GitHub\\devops-project\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joppe\\Documents\\school\\Jaar_2\\devops_project\\DevopsProject\\project\\project.csproj",
+        "projectUniqueName": "C:\\Users\\Joppe\\Documents\\GitHub\\devops-project\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\Joppe\\Documents\\school\\Jaar_2\\devops_project\\DevopsProject\\project\\project.csproj",
+        "projectPath": "C:\\Users\\Joppe\\Documents\\GitHub\\devops-project\\project\\project.csproj",
         "packagesPath": "C:\\Users\\Joppe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joppe\\Documents\\school\\Jaar_2\\devops_project\\DevopsProject\\project\\obj\\",
+        "outputPath": "C:\\Users\\Joppe\\Documents\\GitHub\\devops-project\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joppe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,7 +1,7 @@
 # Stage 1
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /build
-COPY ./project ./
+COPY 
 RUN dotnet restore
 RUN dotnet publish -c Release -o /app
 # Stage 2
